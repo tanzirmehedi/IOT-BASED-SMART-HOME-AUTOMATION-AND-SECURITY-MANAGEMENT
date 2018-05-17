@@ -346,12 +346,20 @@ Identifying the problem and gathering a solution, an initial system planning com
 # References
 
 [1]. Ganesh Prabhu.S, Sangeetha.S, Shanmathi.S, Sharmila.M "Automatic Toll E-Ticketing for Transportation Systems", SSRG International Journal of Electronics and Communication Engineering.
+
 [2]. http/www.mectronicsdesgin.com
+
 [3]. http/www.automationbulding.com
+
 [4]. Division of building services engineering chalmers university of technology göteborg
+
 [5].http://www.homedepot.com/Electrical-Home Automation/h_d1/N
+
 [6].http://www.adt.com/home-security/learningcenter/securitytopics/ technology security/homeautomation-systems-for-all
+
 [7].http://www.adt.com/home-security/learningcenter/securitytopics/ technology-security/remotehome-monitoring-from-yoursmartphone
+
 [8].http://www.adt.com/home-security/learningcenter/securitytopics/ technology-security/makeyour-home-smart
+
 [9].http://www.electronics-lab.com/projects/test/ 014/index.html
 
